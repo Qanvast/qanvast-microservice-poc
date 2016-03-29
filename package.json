@@ -1,0 +1,32 @@
+{
+  "name": "qanvast-microservice-poc",
+  "version": "0.0.1",
+  "description": "Proof of concept.",
+  "main": "index.js",
+  "dependencies": {
+    "bell": "^7.3.0",
+    "bluebird": "^3.3.4",
+    "boom": "^3.1.2",
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "good-http": "^5.1.0",
+    "good-squeeze": "^3.0.0",
+    "hapi": "^13.2.1",
+    "hapi-i18n": "^1.0.2",
+    "hoek": "^3.0.4",
+    "inert": "^3.2.0",
+    "joi": "^8.0.5",
+    "lodash": "^4.6.1",
+    "lout": "^9.0.0",
+    "pg-promise": "^3.4.1",
+    "vision": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microservices",
+    "API"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "qanvast-api-landing",
+  "version": "0.0.1",
+  "dependencies": {
+    "hoek": "^3.0.4",
+    "inert": "^3.2.0"
+  }
+}
