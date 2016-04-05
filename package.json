@@ -4,6 +4,7 @@
   "description": "Proof of concept.",
   "main": "index.js",
   "dependencies": {
+    "bcrypt": "^0.8.5",
     "bell": "^7.3.0",
     "bluebird": "^3.3.4",
     "boom": "^3.1.2",
@@ -12,6 +13,8 @@
     "good-http": "^5.1.0",
     "good-squeeze": "^3.0.0",
     "hapi": "^13.2.1",
+    "hapi-auth-basic": "^4.1.0",
+    "hapi-auth-local": "^0.0.3",
     "hapi-i18n": "^1.0.2",
     "hoek": "^3.0.4",
     "inert": "^3.2.0",

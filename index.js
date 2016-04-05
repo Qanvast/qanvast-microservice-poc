@@ -101,7 +101,13 @@ const plugins = [
         }
     },
     {
-        register: require('./lib/qanvast-api-landing')
+        register: require('./lib/auth-module'),
+        options: {
+
+        }
+    },
+    {
+        register: require('./lib/api-landing-module')
     },
     {
         register: require('./lib/hello-world'),

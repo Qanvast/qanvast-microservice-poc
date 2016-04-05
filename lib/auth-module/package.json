@@ -1,0 +1,10 @@
+{
+  "name": "auth-module",
+  "version": "0.0.1",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "hapi-auth-basic": "^4.1.0",
+    "hapi-auth-local": "0.0.1",
+    "hoek": "^3.0.4"
+  }
+}
