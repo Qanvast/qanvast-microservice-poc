@@ -102,6 +102,9 @@ const plugins = [
     },
     {
         register: require('./lib/auth-module'),
+        routes: {
+            prefix: '/authentication'
+        },
         options: {
 
         }
